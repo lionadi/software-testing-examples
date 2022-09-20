@@ -1,4 +1,4 @@
-namespace UnitTests.Examples.Logic;
+namespace UnitTests.Examples.Logic.ChicagoStyle;
 
 public class TicketStore
 {

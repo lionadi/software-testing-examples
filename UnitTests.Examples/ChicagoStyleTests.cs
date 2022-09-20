@@ -1,5 +1,5 @@
 using System.Data.Common;
-using UnitTests.Examples.Logic;
+using UnitTests.Examples.Logic.ChicagoStyle;
 
 namespace UnitTests.Examples;
 

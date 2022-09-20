@@ -1,6 +1,4 @@
-using UnitTests.Examples.Logic;
-
-namespace UnitTests.Examples;
+namespace UnitTests.Examples.Logic.ChicagoStyle;
 
 public class Customer
 {
