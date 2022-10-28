@@ -4,6 +4,7 @@ using UnitTests.Examples.Logic.LondonStyle;
 
 namespace UnitTests.Examples;
 
+// Class-container for a cohesive set of tests
 public class LondonStyleTests
 {
     [Fact]

@@ -3,6 +3,7 @@ using UnitTests.Examples.Logic.ChicagoStyle;
 
 namespace UnitTests.Examples;
 
+// Class-container for a cohesive set of tests
 public class ChicagoStyleTests
 {
     [Fact]
